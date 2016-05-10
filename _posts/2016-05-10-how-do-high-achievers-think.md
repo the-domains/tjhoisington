@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: How Do High Achievers Think?
-datePublished: '2016-05-10T21:23:22.343Z'
-dateModified: '2016-05-10T21:23:07.503Z'
+datePublished: '2016-05-10T21:24:28.959Z'
+dateModified: '2016-05-10T21:24:08.708Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-10-how-do-high-achievers-think.md
 authors: []
 publisher:
   name: null
@@ -16,11 +17,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-how-do-high-achievers-think.md
 url: how-do-high-achievers-think/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad772d61-9220-4cc7-bedc-ac81ffba6d46.jpg)
+
 How Do High Achievers Think?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41c47b0e-e7dc-4e5c-ae68-88bd0b8b0e3e.jpg)
 
